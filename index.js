@@ -3,7 +3,7 @@ const aiPick = "rock";
 
 // Human picks rock paper or scissors
 let humanPick = prompt(
-  "Attention, human challenger! Brace yourselves, for the AI has mastered the art of unwavering determination. Its choice will always be as solid as a rock! Prepare for an unyielding battle of wits in this game of Rock, Paper, Scissors! 💪🗿 #ChallengeAccepted    Choose: rock, paper, or scissors!"
+  "Attention, human challenger! Brace yourselves, for the AI has mastered the art of unwavering determination. Its choice will always be as solid as a rock! Prepare for an unyielding battle of wits in this game of rock, paper, scissors! 💪🗿 #ChallengeAccepted    Choose: rock, paper, or scissors!"
 );
 
 if (humanPick === "rock") {
