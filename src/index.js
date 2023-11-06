@@ -1,27 +1,23 @@
 let aiPick = "rock";
 
-let humanPick;
-
 let humanPick = prompt(
-       "Attention, human challenger! Brace yourselves, for the AI has mastered the art of unwavering determination. Its choice will always be as solid as a rock! Prepare for an unyielding battle of wits in this game of Rock, Paper, Scissors! 💪🗿 #ChallengeAccepted Choose: rock, paper, or scissors!"
+       "Attention, human challenger! Brace yourselves, for the AI has mastered the art of unwavering determination. Its choice will always be as solid as a rock! Prepare for an unyielding battle of wits in this game of Rock, Paper, Scissors! 💪🗿 #ChallengeAccepted       Choose: rock, paper, or scissors!"
      );
      
      if (humanPick === "rock") {
        alert(
-              "Looks like we're both stuck between a rock and a hard place – the battle of wits continues!" 🪨🤖🤝🧔
+              "Looks like we're both stuck between a rock and a hard place – the battle of wits continues! 🪨🤖🤝🧔"
        );
      } 
      
      else if (humanPick === "paper") {
        alert(
-              "Well, I guess even the smartest AI can't resist the power of a well-folded sheet of paper! 🤖✋📄 #RockPaperScissorsAIFail"
-       );
+              "Well, I guess even the smartest AI can't resist the power of a well-folded sheet of paper! 🤖✋📄 #RockPaperScissorsAIFail");
      } 
      
      else if (humanPick === "scissors") {
        alert(
-              "Looks like I brought a 'rock' to a 'scissors' fight and still came out on top! I must have some 'rock-solid' luck today! 🤘✂️😄"
-       );
+              "Looks like I brought a 'rock' to a 'scissors' fight and still came out on top! I must have some 'rock-solid' luck today! 🤘✂️😄");
      } 
      
      
